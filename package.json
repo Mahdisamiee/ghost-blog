@@ -1,0 +1,21 @@
+{
+  "name": "myblog2",
+  "version": "1.0.0",
+  "description": "My incredible Nuxt.js project",
+  "author": "Mahdisamiee",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@tryghost/content-api": "^1.3.7",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2"
+  },
+  "devDependencies": {}
+}
